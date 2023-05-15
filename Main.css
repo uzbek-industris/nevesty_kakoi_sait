@@ -1,0 +1,22 @@
+h1 {
+    font-size: 75px;
+    width: auto;
+    background-color: rgba(12, 201, 201, 0.801);
+    padding: 6px 3px;
+}
+#ava {
+    width: 350px;
+}
+a {
+    font-size: 35px;
+    color: aliceblue;
+    text-decoration: none;
+}
+.contex {
+    background-color: brown;
+    width: 500px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+}
